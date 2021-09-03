@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-fu-kit",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Add fu-kit to my Vue project (don't mess with \"-\")",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,5 @@
     "url": "https://github.com/vovchisko/vue-cli-plugin-fu-kit/issues"
   },
   "homepage": "https://github.com/vovchisko/vue-cli-plugin-fu-kit#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
