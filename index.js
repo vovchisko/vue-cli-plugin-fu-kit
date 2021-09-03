@@ -1,2 +1,5 @@
-// service plugin
-module.exports = (api, opts) => {}
+
+
+module.exports = (api, opts) => {
+  mergeSassVariables(opts)
+}

@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/vovchisko/vue-cli-plugin-fu-kit/issues"
   },
-  "homepage": "https://github.com/vovchisko/vue-cli-plugin-fu-kit#readme"
+  "homepage": "https://github.com/vovchisko/vue-cli-plugin-fu-kit#readme",
+  "dependencies": {
+  }
 }
